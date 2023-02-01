@@ -29,7 +29,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^1.0.5",
-		"daisyui": "^2.46.1"
+		"daisyui": "^2.46.1",
+		"firebase": "^9.16.0",
+		"svelte-spa-router": "^3.3.0"
 	}
 }
