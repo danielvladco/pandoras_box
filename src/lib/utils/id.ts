@@ -1,0 +1,1 @@
+export const id = (v: string) => `${(Math.random() * 10e15).toString(16)}-${v}`
